@@ -1,1 +1,0 @@
-@wmic logicaldisk get caption>disks.txt
